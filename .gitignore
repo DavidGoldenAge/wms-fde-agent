@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+wms_prod_mirror.db
+mock_logs/
+results/
+report.json
+verified_report.json
+retry_report.json
